@@ -6,5 +6,5 @@ Simple example of animating svg image using CSS
 
 
 
-Special thanks to for such a great tutorial: Dev Ed
+Special thanks to **Dev Ed** for such a great tutorial:   
 https://youtu.be/vJNVramny9k 
